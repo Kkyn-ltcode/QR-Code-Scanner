@@ -1,0 +1,15 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <!-- Primary color -->
+    <color name="purple_500">#6200EE</color>
+    <!-- Primary variant color -->
+    <color name="purple_700">#3700B3</color>
+    <!-- Secondary color -->
+    <color name="teal_200">#03DAC5</color>
+    <!-- Secondary variant color -->
+    <color name="teal_700">#018786</color>
+    <!-- White color -->
+    <color name="white">#FFFFFF</color>
+    <!-- Black color -->
+    <color name="black">#000000</color>
+</resources>
